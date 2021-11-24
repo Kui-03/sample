@@ -1,4 +1,4 @@
-#!usr/bin/env py39
+#!usr/bin/env base
 
 # Import packages
 import streamlit as st
